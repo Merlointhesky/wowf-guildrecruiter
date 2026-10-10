@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: Guild Recruiter
+## Notes: A lightweight CRM and lead generation tool for guild recruitment.
+## Author: You
+## Version: 1.0.0
+## SavedVariables: GuildRecruiterDB, GuildRecruiterDebugLog
+
+Core.lua
+Database.lua
+Scanner.lua
+Communications.lua
+UI.lua
+CRM.lua
+Config.lua
