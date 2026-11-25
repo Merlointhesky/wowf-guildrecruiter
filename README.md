@@ -1,6 +1,7 @@
 # Guild Recruiter
 
 **Version:** 1.0.0  
+**License:** GNU General Public License v3.0 (GPL-3.0)  
 **WoW Version:** WoW Forever Beta (v1.60.1)  
 **Interface:** `16001`  
 
@@ -18,3 +19,7 @@ A lightweight CRM (Customer Relationship Management) and lead generation tool ta
 
 ## Important Note for WoW Forever Beta
 Due to a known beta bug preventing `SavedVariables` from persisting on logout, this addon implements a local manual serialization workaround to ensure your CRM database is safely stored between sessions. Data is strictly scoped to your current character and guild to prevent cross-pollination across rulesets.
+
+## License
+This project is licensed under the **GNU General Public License v3.0** (GPL-3.0). See the [LICENSE](LICENSE) file for complete details.
+
